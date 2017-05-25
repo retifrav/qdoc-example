@@ -13,7 +13,7 @@ import QtQuick.Window 2.0
 
    \section1 Setting default text and capitalization
 
-   To set the default text, auto-capitalized input and password mode - use the properties
+   To set the default text, auto-capitalized input and password mode - use the properties:
 
    \qml
    AwesomeUIControl {
