@@ -1,8 +1,8 @@
-# that's where your source files are (here it's just the root directory)
+# where your source files are (here it's just the root directory)
 sourcedirs = .
-# that's where you header files are (probably in the same place as source)
+# where your header files are (probably in the same place as source)
 headerdirs = .
-# that's where you store images that are referred to in your comments for qdoc
+# where you store images that are used in your qdoc comments
 imagedirs = .
 
 # what kind of sources should be processed
