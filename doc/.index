@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QDOCINDEX>
+<INDEX url="" title="" version="" project="">
+    <namespace threadsafety="unspecified" name="" status="active" access="public">
+        <qmlclass threadsafety="unspecified" name="AwesomeUIControl" qml-module-name="AwesomeUIControl" href="qml-awesomeuicontrol.html" status="active" access="public" title="AwesomeUIControl" fulltitle="AwesomeUIControl" subtitle="" brief="A customized TextInput control">
+            <contents name="setting-default-text-and-capitalization" title="Setting default text and capitalization" level="1"/>
+            <qmlproperty threadsafety="unspecified" name="capitalization" fullname="AwesomeUIControl::capitalization" href="qml-awesomeuicontrol.html#capitalization-prop" status="active" access="public" type="alias" attached="false" writable="true"/>
+            <qmlproperty threadsafety="unspecified" name="echoMode" fullname="AwesomeUIControl::echoMode" href="qml-awesomeuicontrol.html#echoMode-prop" status="active" access="public" type="alias" attached="false" writable="true"/>
+            <qmlproperty threadsafety="unspecified" name="input" fullname="AwesomeUIControl::input" href="qml-awesomeuicontrol.html#input-prop" status="active" access="public" type="alias" attached="false" writable="true"/>
+            <qmlproperty threadsafety="unspecified" name="text" fullname="AwesomeUIControl::text" href="qml-awesomeuicontrol.html#text-prop" status="active" access="public" type="alias" attached="false" writable="true"/>
+        </qmlclass>
+        <qmlclass threadsafety="unspecified" name="main" qml-module-name="main" href="qml-main.html" status="internal" access="private" location="main.qml" filepath="/Users/artem/Library/Mobile Documents/com~apple~CloudDocs/_mine/_crea/code/qt/qdoc-example/main.qml" lineno="5" title="main" fulltitle="main" subtitle=""/>
+    </namespace>
+</INDEX>
